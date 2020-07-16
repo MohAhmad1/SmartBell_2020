@@ -8,3 +8,7 @@ Done a bit more research.
 Started again step by step.
 Working my way through each step to improve.
 Getting face recognition to work on it's own.
+
+A bit of coding left to finish off face recognition to work on it's on.
+Started on the project report doing bit by bit.
+Looking up more ways of sending emails a bit different.
