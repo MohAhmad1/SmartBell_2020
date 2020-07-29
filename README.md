@@ -16,3 +16,7 @@ Looking up more ways of sending emails a bit different.
 Got face recognition to work.
 Researching another way to send data to email of person who is outside.
 Still working on the report.
+
+
+Trying to send image of person to email instead of a live stream.
+Stored data of person in a folder to read from.
