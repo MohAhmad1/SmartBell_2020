@@ -24,3 +24,7 @@ Stored data of person in a folder to read from.
 Still working trying to send a image to an email
 Can send email as normal 
 Working on my report as well
+
+Able to send an image to an email
+Fixing up the final code by putting it altogether
+Updating report
