@@ -31,3 +31,5 @@ Updating report
 
 Making the video for final pres.
 Finsihed with report and poster
+
+All completed and submitted on time
