@@ -28,3 +28,6 @@ Working on my report as well
 Able to send an image to an email
 Fixing up the final code by putting it altogether
 Updating report
+
+Making the video for final pres.
+Finsihed with report and poster
